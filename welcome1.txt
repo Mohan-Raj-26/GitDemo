@@ -1,2 +1,1 @@
 Welcome to the version control of Git
-Welcome to the version control of Git
